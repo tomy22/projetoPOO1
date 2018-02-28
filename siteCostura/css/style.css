@@ -89,6 +89,7 @@
 
 .noticia .noticia2{
     padding-top: 30px;
+    margin-bottom: 30px;
 }
 
 .noticia .legenda{
@@ -102,11 +103,21 @@
 }
 
 .rodape p{
-    margin-top: 80px;
+    margin-top: 84px;
     font-family: "segoe UI";
     padding-left: 50px;
     color: #fff;
 }
+
+footer .contato{
+    margin-top: 40px;
+}
+footer .numero{
+    margin-left: 50px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
 
 .footer_redes ul li {
     margin-top: 50px;
