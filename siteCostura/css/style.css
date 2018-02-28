@@ -1,0 +1,126 @@
+.caixa-menu{
+    background: #FF943C;
+    height: 80px;
+}
+
+.caixa-opcao{
+    margin-top: 20px;
+}
+.op{
+    border: 2px solid #FF943C;
+    border-radius: 10px;
+    padding: 5px;
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+.op:hover{
+     border-color: #fff;
+    transition: 0.5s;
+}
+
+.op a{
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+}
+
+.img-inicio{
+    width: 100%;
+    box-shadow: border-box;
+}
+
+/*institucional*/
+
+.institucional .topo{
+    font-size: 38px;
+    font-family: "Segoe UI";
+    color: gray;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+.institucional p{
+    margin-left: 25px;
+}
+
+
+.caixa-inst{
+    border-left: 1px gray;
+    border-right: 1px gray;
+    background: #FFFAFA;
+    width: 95%;
+   height: 870px;
+   margin-left: 2%;
+  
+
+}
+
+.titulo-inst{
+    padding-top: 30px;
+    color: #E5591A;
+    font-size: 28px;
+    font-weight: 400;
+    text-shadow: 1px 1px 1px gray;
+}
+
+.texto-inst{
+    margin-top: -10px;
+    font-size: 16px;
+    padding-bottom: 20px;
+    color: gray;
+
+}
+
+/*NOTICIA*/
+.noticia .topo{
+    padding-top: 30px;
+}
+.noticia .titulo{
+    font-size: 38px;
+    font-family: "Segoe UI";
+    color: gray;
+}
+
+.botao{
+    background: #F3704E;
+    border-color: #F3704E;
+}
+
+.noticia .noticia2{
+    padding-top: 30px;
+}
+
+.noticia .legenda{
+    color: gray;
+}
+
+/*RODAPE*/
+.rodape{
+    height: 180px;
+    background:  #FF943C;
+}
+
+.rodape p{
+    margin-top: 80px;
+    font-family: "segoe UI";
+    padding-left: 50px;
+    color: #fff;
+}
+
+.footer_redes ul li {
+    margin-top: 50px;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.footer_redes ul li a {
+	border: 3px solid #E5F0D7;
+	display: block;
+	padding: 10px;
+	transition: all .5s ease;
+}
+
+.footer_redes ul li a:hover {
+	border-color: #5E3C07;
+}
