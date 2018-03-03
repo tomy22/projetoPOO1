@@ -31,6 +31,19 @@
     box-shadow: border-box;
 }
 
+section .slidee{
+    max-height: 580px;
+    
+    
+}
+
+section .slidee img{
+    max-height: 500px;
+    max-width: 950px;
+    margin: -30px;
+    
+}
+
 /*institucional*/
 
 .institucional .topo{
@@ -134,4 +147,8 @@ footer .numero{
 
 .footer_redes ul li a:hover {
 	border-color: #5E3C07;
+}
+#carouselExampleIndicators {
+    background-color: #FFE8C6;
+    border-radius: 10px;
 }
