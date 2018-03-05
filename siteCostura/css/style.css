@@ -5,6 +5,7 @@
 
 .caixa-opcao{
     margin-top: 20px;
+    margin-left: 90px;
 }
 .op{
     border: 2px solid #FF943C;
@@ -13,6 +14,13 @@
     list-style: none;
     display: inline-block;
     margin-left: 20px;
+}
+
+.logo{
+    position: relative;
+    height: 90px;
+    bottom: 80px;
+    left: 15px;
 }
 .op:hover{
      border-color: #fff;
