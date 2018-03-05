@@ -35,6 +35,7 @@ section .slidee{
     max-height: 580px;
     
     
+    
 }
 
 section .slidee img{
@@ -124,6 +125,10 @@ section .slidee img{
 
 footer .contato{
     margin-top: 40px;
+}
+
+.contato.product{
+    margin-top: -40px;
 }
 footer .numero{
     margin-left: 50px;
